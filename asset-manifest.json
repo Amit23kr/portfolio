@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.59633889.css",
+    "main.js": "/portfolio/static/js/main.3dbe0ea9.js",
+    "static/media/litta-projectNew.png": "/portfolio/static/media/litta-projectNew.0daa3c568c74757a0e48.png",
+    "static/media/gwc-project1.png": "/portfolio/static/media/gwc-project1.2b29709536d46fa20117.png",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/sidebar.png": "/portfolio/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/delinet.png": "/portfolio/static/media/delinet.ca2ec6ee1df734056e21.png",
+    "static/media/mayank.jpg": "/portfolio/static/media/mayank.85b63ac5f0399da8e5dd.jpg",
+    "static/media/mukul.jpg": "/portfolio/static/media/mukul.221bbcb8a924aa8515ed.jpg",
+    "static/media/Notifications.png": "/portfolio/static/media/Notifications.305ac653f3c66e9b0a0d.png",
+    "static/media/boy.png": "/portfolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/vivek.jpg": "/portfolio/static/media/vivek.7b123f8a4948fb2f17f9.jpg",
+    "static/media/mitika.jpg": "/portfolio/static/media/mitika.2c5861b2da1e16ec65aa.jpg",
+    "static/media/glassesimoji.png": "/portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Amitsah_resume.pdf": "/portfolio/static/media/Amitsah_resume.da524c62bf65a3b184ff.pdf",
+    "static/media/thumbup.png": "/portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/jungleWorksNew.png": "/portfolio/static/media/jungleWorksNew.6ed8dac8888e3af5d5a3.png",
+    "index.html": "/portfolio/index.html",
+    "main.59633889.css.map": "/portfolio/static/css/main.59633889.css.map",
+    "main.3dbe0ea9.js.map": "/portfolio/static/js/main.3dbe0ea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59633889.css",
+    "static/js/main.3dbe0ea9.js"
+  ]
+}
